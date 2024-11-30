@@ -11,3 +11,15 @@ Plan of execution:
 7. Take the train split of the labeled data and train the models (GPT2 & BERT) on the labeled transcripts 
 Evaluate the model on an unlabeled test split of the longer transcripts while using the labels to measure success
 8. If time is remaining, do some software engineering to pull the timestamps of the labeled highlights so that videos can be segmented programmatically. 
+
+
+
+Actual steps:
+
+1. Attempt to pull the full ESPN transcripts of game commentary 
+
+
+Looks like we'll have to use Selenium to get the highlight videos - question how do we know if the transcripts are the same?
+
+EX: 2018-tennessee_titans-tampa_bay_buccaneers.txt
+ 

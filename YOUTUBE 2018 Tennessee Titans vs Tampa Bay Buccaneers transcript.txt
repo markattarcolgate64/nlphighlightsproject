@@ -1,0 +1,487 @@
+[
+    {
+        "text": "the",
+        "start": 6.299,
+        "duration": 3.0
+    },
+    {
+        "text": "Wow he pill",
+        "start": 9.68,
+        "duration": 3.65
+    },
+    {
+        "text": "reception violence instigated the glitch",
+        "start": 17.66,
+        "duration": 7.17
+    },
+    {
+        "text": "to my cover story",
+        "start": 21.45,
+        "duration": 3.38
+    },
+    {
+        "text": "in Jonathan Williams and how they're",
+        "start": 32.42,
+        "duration": 4.36
+    },
+    {
+        "text": "playing he tries to cover the ball up",
+        "start": 35.19,
+        "duration": 3.66
+    },
+    {
+        "text": "you can see him go to two hands it still",
+        "start": 36.78,
+        "duration": 4.02
+    },
+    {
+        "text": "comes out they knock it loose great play",
+        "start": 38.85,
+        "duration": 3.87
+    },
+    {
+        "text": "great vision get it up run it down the",
+        "start": 40.8,
+        "duration": 3.63
+    },
+    {
+        "text": "field now right now Sean Payton's got",
+        "start": 42.72,
+        "duration": 4.409
+    },
+    {
+        "text": "we're down at seven",
+        "start": 44.43,
+        "duration": 5.16
+    },
+    {
+        "text": "it's Patrick looking for DeSean Jackson",
+        "start": 47.129,
+        "duration": 6.52
+    },
+    {
+        "text": "they make the catch inbounds he did",
+        "start": 49.59,
+        "duration": 6.609
+    },
+    {
+        "text": "there is get yourself in a one-on-one",
+        "start": 53.649,
+        "duration": 10.32
+    },
+    {
+        "text": "situation sagar as he always seemingly",
+        "start": 56.199,
+        "duration": 14.221
+    },
+    {
+        "text": "doesn't live justin evans all receivers",
+        "start": 63.969,
+        "duration": 9.741
+    },
+    {
+        "text": "out Winston",
+        "start": 70.42,
+        "duration": 3.29
+    },
+    {
+        "text": "[Applause]",
+        "start": 76.19,
+        "duration": 4.269
+    },
+    {
+        "text": "let's one-on-one coverage ends",
+        "start": 80.99,
+        "duration": 6.379
+    },
+    {
+        "text": "which did not third down",
+        "start": 94.33,
+        "duration": 6.49
+    },
+    {
+        "text": "[Applause]",
+        "start": 95.86,
+        "duration": 7.74
+    },
+    {
+        "text": "touchdown",
+        "start": 100.82,
+        "duration": 2.78
+    },
+    {
+        "text": "here's Winston going to the endzone to",
+        "start": 103.929,
+        "duration": 6.15
+    },
+    {
+        "text": "Evans",
+        "start": 107.569,
+        "duration": 2.51
+    },
+    {
+        "text": "is a touchdown my cabbage whether it's a",
+        "start": 110.21,
+        "duration": 5.01
+    },
+    {
+        "text": "terrific catch and not bust a year on",
+        "start": 113.119,
+        "duration": 4.171
+    },
+    {
+        "text": "top of that defensive back little",
+        "start": 115.22,
+        "duration": 3.96
+    },
+    {
+        "text": "shuttle right there to create some",
+        "start": 117.29,
+        "duration": 4.7
+    },
+    {
+        "text": "separation and then go ahead touchdown",
+        "start": 119.18,
+        "duration": 6.5
+    },
+    {
+        "text": "beautifully placed but",
+        "start": 121.99,
+        "duration": 3.69
+    },
+    {
+        "text": "beep DeSean Jackson wide open he's got",
+        "start": 128.209,
+        "duration": 5.25
+    },
+    {
+        "text": "it and that's gonna be a",
+        "start": 131.15,
+        "duration": 4.03
+    },
+    {
+        "text": "touchdown",
+        "start": 133.459,
+        "duration": 5.36
+    },
+    {
+        "text": "[Applause]",
+        "start": 135.18,
+        "duration": 7.77
+    },
+    {
+        "text": "a couple of veterans hooking up",
+        "start": 138.819,
+        "duration": 8.101
+    },
+    {
+        "text": "Jameis Winston to throw going T he's got",
+        "start": 142.95,
+        "duration": 6.399
+    },
+    {
+        "text": "the shot Jackson to shot checks it has a",
+        "start": 146.92,
+        "duration": 5.25
+    },
+    {
+        "text": "bucketeer touchdown",
+        "start": 149.349,
+        "duration": 6.481
+    },
+    {
+        "text": "first three regular season games that's",
+        "start": 152.17,
+        "duration": 6.98
+    },
+    {
+        "text": "Patrick going deep to the short",
+        "start": 155.83,
+        "duration": 12.6
+    },
+    {
+        "text": "[Applause]",
+        "start": 159.15,
+        "duration": 9.28
+    },
+    {
+        "text": "still with three timeouts left",
+        "start": 169.489,
+        "duration": 5.621
+    },
+    {
+        "text": "and Winston going to the end zone and",
+        "start": 171.959,
+        "duration": 7.411
+    },
+    {
+        "text": "it's caught signal touchdown Chris",
+        "start": 175.11,
+        "duration": 9.57
+    },
+    {
+        "text": "Godwin by running the tight end down the",
+        "start": 179.37,
+        "duration": 7.56
+    },
+    {
+        "text": "seam and here's God went right down the",
+        "start": 184.68,
+        "duration": 5.1
+    },
+    {
+        "text": "sideline gets both feet in secures the",
+        "start": 186.93,
+        "duration": 6.19
+    },
+    {
+        "text": "bill the five-foot-six Jacquizz Rodgers",
+        "start": 189.78,
+        "duration": 5.46
+    },
+    {
+        "text": "[Applause]",
+        "start": 193.12,
+        "duration": 6.43
+    },
+    {
+        "text": "to the hands somehow Mike Evans",
+        "start": 195.24,
+        "duration": 6.74
+    },
+    {
+        "text": "you're going to see Mike Evans he sees",
+        "start": 199.55,
+        "duration": 5.43
+    },
+    {
+        "text": "it attacks it closes the separation and",
+        "start": 201.98,
+        "duration": 7.65
+    },
+    {
+        "text": "attracts them it's Patrick up second and",
+        "start": 204.98,
+        "duration": 7.619
+    },
+    {
+        "text": "ten up freeze on the slab",
+        "start": 209.63,
+        "duration": 6.109
+    },
+    {
+        "text": "inside the ten",
+        "start": 212.599,
+        "duration": 3.14
+    },
+    {
+        "text": "is finally brought down I own his knee",
+        "start": 217.17,
+        "duration": 6.09
+    },
+    {
+        "text": "and I think that's a touchdown touchdown",
+        "start": 219.599,
+        "duration": 7.931
+    },
+    {
+        "text": "[Applause]",
+        "start": 223.26,
+        "duration": 8.8
+    },
+    {
+        "text": "with an Russian I can tell",
+        "start": 227.53,
+        "duration": 4.53
+    },
+    {
+        "text": "let's down to my cabinet go you're up 10",
+        "start": 234.0,
+        "duration": 5.19
+    },
+    {
+        "text": "you don't care about the stack getters",
+        "start": 237.09,
+        "duration": 5.07
+    },
+    {
+        "text": "underneath you care about nothing",
+        "start": 239.19,
+        "duration": 5.61
+    },
+    {
+        "text": "[Applause]",
+        "start": 242.16,
+        "duration": 4.04
+    },
+    {
+        "text": "I've got him",
+        "start": 244.8,
+        "duration": 4.08
+    },
+    {
+        "text": "does Hannah yes",
+        "start": 246.2,
+        "duration": 4.81
+    },
+    {
+        "text": "[Applause]",
+        "start": 248.88,
+        "duration": 4.82
+    },
+    {
+        "text": "wait",
+        "start": 251.01,
+        "duration": 2.69
+    },
+    {
+        "text": "J Howard chop to this one the cross",
+        "start": 263.03,
+        "duration": 5.01
+    },
+    {
+        "text": "midfield",
+        "start": 266.33,
+        "duration": 3.6
+    },
+    {
+        "text": "down the sideline",
+        "start": 268.04,
+        "duration": 4.129
+    },
+    {
+        "text": "he will jacket",
+        "start": 269.93,
+        "duration": 3.9
+    },
+    {
+        "text": "touchdown",
+        "start": 272.169,
+        "duration": 6.201
+    },
+    {
+        "text": "seventy-five yards little temples on",
+        "start": 273.83,
+        "duration": 7.56
+    },
+    {
+        "text": "this edge push plate",
+        "start": 278.37,
+        "duration": 3.02
+    },
+    {
+        "text": "- did what can",
+        "start": 283.35,
+        "duration": 4.81
+    },
+    {
+        "text": "let's jam",
+        "start": 284.93,
+        "duration": 3.23
+    },
+    {
+        "text": "look at that face on Baker Mayfield can",
+        "start": 290.34,
+        "duration": 8.46
+    },
+    {
+        "text": "you believe it the Tampa Bay Park",
+        "start": 293.47,
+        "duration": 5.33
+    },
+    {
+        "text": "yeah I read it it's hard to it's hard to",
+        "start": 299.72,
+        "duration": 6.25
+    },
+    {
+        "text": "find those guys hard to find wincing on",
+        "start": 302.25,
+        "duration": 6.33
+    },
+    {
+        "text": "this play as he lets go down hill to",
+        "start": 305.97,
+        "duration": 5.669
+    },
+    {
+        "text": "Evan's Evan's thanks to cats and if it's",
+        "start": 308.58,
+        "duration": 3.839
+    },
+    {
+        "text": "still on his feet",
+        "start": 311.639,
+        "duration": 4.921
+    },
+    {
+        "text": "and a face mask jumps him and then all",
+        "start": 312.419,
+        "duration": 5.911
+    },
+    {
+        "text": "of a sudden he sees gave us a trouble",
+        "start": 316.56,
+        "duration": 4.009
+    },
+    {
+        "text": "and he's",
+        "start": 318.33,
+        "duration": 2.239
+    },
+    {
+        "text": "get it to me welcome back I misspoke",
+        "start": 321.49,
+        "duration": 4.98
+    },
+    {
+        "text": "it's Matt Prater attempting a 62-yard",
+        "start": 323.919,
+        "duration": 5.691
+    },
+    {
+        "text": "field goal and he pulls it to the left",
+        "start": 326.47,
+        "duration": 7.19
+    },
+    {
+        "text": "it's going to come out of the endzone",
+        "start": 329.61,
+        "duration": 4.05
+    },
+    {
+        "text": "this is Humphrey",
+        "start": 334.74,
+        "duration": 5.34
+    },
+    {
+        "text": "Humphrey",
+        "start": 337.08,
+        "duration": 3.0
+    },
+    {
+        "text": "[Applause]",
+        "start": 341.94,
+        "duration": 7.09
+    },
+    {
+        "text": "it glides down",
+        "start": 347.68,
+        "duration": 2.72
+    },
+    {
+        "text": "[Music]",
+        "start": 349.03,
+        "duration": 4.13
+    },
+    {
+        "text": "[Applause]",
+        "start": 350.4,
+        "duration": 5.909
+    },
+    {
+        "text": "[Music]",
+        "start": 353.16,
+        "duration": 3.149
+    }
+]

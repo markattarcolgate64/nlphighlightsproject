@@ -1,0 +1,14 @@
+FOOTBALL/
+rosters/
+shighlightenv/
+__pycache__/
+FOOTBALLREADME.txt
+FOOTBALL_EMNLP2019.pdf
+.env
+2016-kentucky-tennessee-1.txt transcript.txt
+2016-kentucky-tennessee.txt transcript.txt
+2016-memphis-south_florida.txt transcript.txt
+2018-tennessee_titans-tampa_bay_buccaneers.txt transcript.txt
+raw_transcripts.json
+tagged_transcripts.json
+youtube_example.json
