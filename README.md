@@ -22,4 +22,6 @@ Actual steps:
 Looks like we'll have to use Selenium to get the highlight videos - question how do we know if the transcripts are the same?
 
 EX: 2018-tennessee_titans-tampa_bay_buccaneers.txt
- 
+
+
+ [Mark_Attar_24Fall_NLP_Final_Paper.pdf](https://github.com/user-attachments/files/19790216/Mark_Attar_24Fall_NLP_Final_Paper.pdf)
