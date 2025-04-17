@@ -23,5 +23,5 @@ Looks like we'll have to use Selenium to get the highlight videos - question how
 
 EX: 2018-tennessee_titans-tampa_bay_buccaneers.txt
 
-
+Paper:
  [Mark_Attar_24Fall_NLP_Final_Paper.pdf](https://github.com/user-attachments/files/19790216/Mark_Attar_24Fall_NLP_Final_Paper.pdf)
