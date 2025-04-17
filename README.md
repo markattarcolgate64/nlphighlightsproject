@@ -14,6 +14,11 @@ Generate precise timestamped segments for quick playback.
 
 Whether you’re a coach reviewing performances, a fan catching up on highlights, or a data scientist exploring NLP in sports, this tool has you covered.
 
+
+![image](https://github.com/user-attachments/assets/d2d85c28-9461-416f-8e05-388556e0e1da)
+
+
+
 ## Features
 
 Full-Game Transcript Ingestion: Pulls commentary from YouTube using the YouTube API & Selenium.
