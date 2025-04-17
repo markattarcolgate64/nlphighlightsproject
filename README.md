@@ -1,6 +1,6 @@
 ## CutUp NLP Sports Highlights Project 
 
-Automatically detect and extract the most exciting moments from full-game commentary transcripts, aligning them with highlight videos using NLP.
+Automatically detect and extract the most exciting moments from full-game commentary transcripts, classifying & aligning them with highlight videos using NLP.
 
 ## Why This Project
 
